@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "id": "linspectacles-python-packages",
+  "name": "Python Packages",
+  "version": "0.0.8",
+  "author": "brunonlinespace",
+  "editor": "brunonlinespace",
+  "publisher": "brunonlinespace",
+  "organization_id": "linspectacles",
+  "organization_url": "https://github.com/linspectacles/",
+  "repository": "https://github.com/linspectacles/python-packages",
+  "order": 90,
+  "entrypoint": "python_packages/applet.py",
+  "factory": "create_applet",
+  "standalone": "standalone.py",
+  "description": "Explicit-scan Python distribution inventory.",
+  "platforms": [
+    "linux"
+  ],
+  "read_only": true
+}
